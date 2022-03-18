@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/shumaila/static/css/main.a761416a.css",
+    "main.js": "/shumaila/static/js/main.f3fd5490.js",
+    "static/js/787.1aae6ac0.chunk.js": "/shumaila/static/js/787.1aae6ac0.chunk.js",
+    "static/media/Group 3048.svg": "/shumaila/static/media/Group 3048.1413887f120210874e64bbddaae5c608.svg",
+    "static/media/Group 3037.svg": "/shumaila/static/media/Group 3037.245af815bb66539bbe5085ff963778b4.svg",
+    "static/media/Group 3052.svg": "/shumaila/static/media/Group 3052.35b21e96cb8b66f0fcbde81803d812ee.svg",
+    "static/media/Group 3049.svg": "/shumaila/static/media/Group 3049.45d14415d0ed6948a706cc4cd4c7bfbf.svg",
+    "static/media/Group 2681.svg": "/shumaila/static/media/Group 2681.a23aca6c46d338c05e6e365427f20057.svg",
+    "static/media/Northwestern Mutual Logo.svg": "/shumaila/static/media/Northwestern Mutual Logo.56d9d41985964f0a6e054b3dfc093014.svg",
+    "static/media/Central Bank of Kansas City Logo.svg": "/shumaila/static/media/Central Bank of Kansas City Logo.b97cbfeef521455fe0cd80aa8b6e4f0b.svg",
+    "static/media/Group 2956.svg": "/shumaila/static/media/Group 2956.8638d066022bfc24be46d38e122188cd.svg",
+    "static/media/Instagram Icon (1).svg": "/shumaila/static/media/Instagram Icon (1).cf370c6c261bdc69cd24e206dc37ea67.svg",
+    "static/media/Twitter Icon.svg": "/shumaila/static/media/Twitter Icon.18ef579c42f8130a22f84a5f029afbb5.svg",
+    "index.html": "/shumaila/index.html",
+    "static/media/Group 3028.svg": "/shumaila/static/media/Group 3028.ba0f411e54d17815d1bc37797cb2926f.svg",
+    "static/media/percentage-square.svg": "/shumaila/static/media/percentage-square.d4f4dcf54adbbbef656d785b63c54e01.svg",
+    "static/media/profile-add.svg": "/shumaila/static/media/profile-add.69be4a7670aece27682330459804d13d.svg",
+    "static/media/card.svg": "/shumaila/static/media/card.525aae4212bb237e7c28106a411ce5b6.svg",
+    "static/media/Facebook Icon (1).svg": "/shumaila/static/media/Facebook Icon (1).14af5d8f6d25d72f0c6d13230bf2c7ee.svg",
+    "static/media/tick-circle.svg": "/shumaila/static/media/tick-circle.23b165015fc1c77549713a8fa4858599.svg",
+    "static/media/arrow-right.svg": "/shumaila/static/media/arrow-right.bff4e8e17ba36de62b57.svg",
+    "main.a761416a.css.map": "/shumaila/static/css/main.a761416a.css.map",
+    "main.f3fd5490.js.map": "/shumaila/static/js/main.f3fd5490.js.map",
+    "787.1aae6ac0.chunk.js.map": "/shumaila/static/js/787.1aae6ac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a761416a.css",
+    "static/js/main.f3fd5490.js"
+  ]
+}
