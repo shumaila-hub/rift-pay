@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shumaila/static/css/main.a761416a.css",
-    "main.js": "/shumaila/static/js/main.f3fd5490.js",
+    "main.css": "/shumaila/static/css/main.7409ed1a.css",
+    "main.js": "/shumaila/static/js/main.c778aaf0.js",
     "static/js/787.1aae6ac0.chunk.js": "/shumaila/static/js/787.1aae6ac0.chunk.js",
     "static/media/Group 3048.svg": "/shumaila/static/media/Group 3048.1413887f120210874e64bbddaae5c608.svg",
     "static/media/Group 3037.svg": "/shumaila/static/media/Group 3037.245af815bb66539bbe5085ff963778b4.svg",
@@ -21,12 +21,12 @@
     "static/media/Facebook Icon (1).svg": "/shumaila/static/media/Facebook Icon (1).14af5d8f6d25d72f0c6d13230bf2c7ee.svg",
     "static/media/tick-circle.svg": "/shumaila/static/media/tick-circle.23b165015fc1c77549713a8fa4858599.svg",
     "static/media/arrow-right.svg": "/shumaila/static/media/arrow-right.bff4e8e17ba36de62b57.svg",
-    "main.a761416a.css.map": "/shumaila/static/css/main.a761416a.css.map",
-    "main.f3fd5490.js.map": "/shumaila/static/js/main.f3fd5490.js.map",
+    "main.7409ed1a.css.map": "/shumaila/static/css/main.7409ed1a.css.map",
+    "main.c778aaf0.js.map": "/shumaila/static/js/main.c778aaf0.js.map",
     "787.1aae6ac0.chunk.js.map": "/shumaila/static/js/787.1aae6ac0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a761416a.css",
-    "static/js/main.f3fd5490.js"
+    "static/css/main.7409ed1a.css",
+    "static/js/main.c778aaf0.js"
   ]
 }
